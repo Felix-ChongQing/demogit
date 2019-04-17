@@ -13,3 +13,5 @@ git reset HEAD <file>
 
 
 11	
+
+git push origin master
